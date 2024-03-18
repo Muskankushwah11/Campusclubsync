@@ -49,8 +49,7 @@ const Footer = () => {
               Campus Club
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum in
-              beatae ea recusandae blanditiis veritatis.
+              A Campus Club Sync is a helper of student to get in their interest group or club by the CampusClubSync.
             </p>
           </div>
 
@@ -108,7 +107,7 @@ const Footer = () => {
               <div className="mt-6">
                 <div className="flex items-center gap-3">
                   <FaLocationArrow />
-                  <p>Noida, Uttar Pradesh</p>
+                  <p>Indore , Madhya Pradesh</p>
                 </div>
                 <div className="flex items-center gap-3 mt-3">
                   <FaMobileAlt />
